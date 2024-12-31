@@ -90,12 +90,6 @@ export default function Home() {
         <h1 style={{ fontSize: "2.5rem", marginBottom: "20px", color: "#ffffff" }}>
         Website is still under construction. 
         </h1>
-        <iframe
-          src="/dino/index.html"
-          width="600"
-          height="200"
-          style={{ border: "none", borderRadius: "10px" }}
-        />
       </div>
     </div>
   );
